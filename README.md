@@ -15,7 +15,7 @@ yarn install
 
 2. 启动项目
 ```
-yarn start
+yarn start 
 ```
 > 注意，默认启动3000端口，如果不是3000端口，则需要修改`mock/config/index.js`中的proxy `/`为相应的值。
 > 默认为`http://localhost:3000/`
